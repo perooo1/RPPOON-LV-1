@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPPOON LV1 priprema", "RPPOON LV1 priprema\RPPOON LV1 priprema.csproj", "{18DAE6FF-CE22-4672-8B6D-B13D3692EF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DAE6FF-CE22-4672-8B6D-B13D3692EF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DAE6FF-CE22-4672-8B6D-B13D3692EF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DAE6FF-CE22-4672-8B6D-B13D3692EF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DAE6FF-CE22-4672-8B6D-B13D3692EF81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF11B9F-F276-4CC3-BD04-8C6FEDA61860}
+	EndGlobalSection
+EndGlobal

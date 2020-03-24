@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\RPPOON LV1 priprema\RPPOON LV1 priprema\bin\Debug\RPPOON LV1 priprema.exe.config
+C:\Users\korisnik\source\repos\RPPOON LV1 priprema\RPPOON LV1 priprema\bin\Debug\RPPOON LV1 priprema.exe
+C:\Users\korisnik\source\repos\RPPOON LV1 priprema\RPPOON LV1 priprema\bin\Debug\RPPOON LV1 priprema.pdb
+C:\Users\korisnik\source\repos\RPPOON LV1 priprema\RPPOON LV1 priprema\obj\Debug\RPPOON LV1 priprema.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\RPPOON LV1 priprema\RPPOON LV1 priprema\obj\Debug\RPPOON LV1 priprema.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\RPPOON LV1 priprema\RPPOON LV1 priprema\obj\Debug\RPPOON LV1 priprema.exe
+C:\Users\korisnik\source\repos\RPPOON LV1 priprema\RPPOON LV1 priprema\obj\Debug\RPPOON LV1 priprema.pdb
